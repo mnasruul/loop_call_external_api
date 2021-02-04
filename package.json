@@ -1,7 +1,7 @@
 {
-  "name": "twitter-bot",
+  "name": "loop_call_external_api",
   "version": "1.0.0",
-  "description": "Nodejs Twitter Bot",
+  "description": "Lopp Call Esternal API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/Twitter-Bot.git"
+    "url": "git+https://github.com/mnasruul/loop_call_external_api.git"
   },
-  "author": "Brandon Morelli",
-  "license": "ISC",
+  "author": "Muhammad Nasrul",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/bmorelli25/Twitter-Bot/issues"
+    "url": "https://github.com/mnasruul/loop_call_external_api"
   },
-  "homepage": "https://github.com/bmorelli25/Twitter-Bot#readme",
+  "homepage": "https://github.com/mnasruul/loop_call_external_api",
   "dependencies": {
     "axios": "^0.21.1",
     "express": "^4.17.1",
